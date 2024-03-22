@@ -1,4 +1,7 @@
 # First change for P3
+# Commit for Refactor code step
+# Commit for Refactor code step 2
+
 
 import time
 import calendar
