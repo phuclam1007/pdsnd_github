@@ -1,1 +1,8 @@
 .github/**
+
+# Logs
+logs
+*.log
+
+# Local env files
+.env
